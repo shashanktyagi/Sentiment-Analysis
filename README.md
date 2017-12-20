@@ -28,3 +28,8 @@ Sample review:
  'unixReviewTime': 1203984000}
  
  
+<img src="https://github.com/shashanktyagi/Sentiment-Analysis/blob/master/mlp.png" width=500 align="middle" >
+
+<img src="https://github.com/shashanktyagi/Sentiment-Analysis/blob/master/lstm.png" width=500 align="middle" >
+
+<img src="https://github.com/shashanktyagi/Sentiment-Analysis/blob/master/conv1d.png" width=500 align="middle" >
