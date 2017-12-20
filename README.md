@@ -27,9 +27,14 @@ Sample review:
  
  'unixReviewTime': 1203984000}
  
+ ### Models
  
+ #### MLP
 <img src="https://github.com/shashanktyagi/Sentiment-Analysis/blob/master/mlp.png" width=500 align="middle" >
 
+ #### 1D convolutional neural network
+ <img src="https://github.com/shashanktyagi/Sentiment-Analysis/blob/master/conv1d.png" width=500 align="middle" >
+
+ #### LSTM
 <img src="https://github.com/shashanktyagi/Sentiment-Analysis/blob/master/lstm.png" width=500 align="middle" >
 
-<img src="https://github.com/shashanktyagi/Sentiment-Analysis/blob/master/conv1d.png" width=500 align="middle" >
